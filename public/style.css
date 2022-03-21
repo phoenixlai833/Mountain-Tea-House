@@ -1,0 +1,662 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Montserrat:ital,wght@0,300;0,400;0,600;1,200;1,400;1,600&display=swap");
+
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  line-height: 0.5;
+  box-sizing: border-box;
+  margin: 0em;
+  overflow-x: hidden;
+  top: 0;
+  left: 0;
+}
+
+nav.navbar div.container-fluid {
+  background-color: #f9f6e4;
+}
+
+nav.navbar.navbar-expand-md.navbar-light.bg-light {
+  padding-top: 0em;
+  padding-bottom: 0em;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  text-decoration: none;
+  color: #87826e;
+  font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-item .nav-link .active {
+  color: #5fa79f;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #5fa79f;
+}
+
+object.cartIcon {
+  width: 40px;
+  margin-left: 4%; 
+}
+
+/* HERO + MOTTO */
+
+.hero {
+  background-image: url("assets/oriento-cmWUcVSJWOw-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 30%;
+  overflow: hidden;
+  color: white;
+}
+
+.heroContent {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.heroLogo {
+  width: 30%;
+  align-self: center;
+  padding-top: 20%;
+}
+
+.heroContent p {
+  width: 45%;
+  line-height: 1.25;
+  color: #f9f6e4;
+  align-self: center;
+}
+
+a.shopBtn {
+  text-decoration: none;
+  padding: 5%;
+}
+
+.shopBtnContent {
+  background: #2d1312;
+  border: 1px solid #f9f6e4;
+  box-sizing: border-box;
+  box-shadow: 1px 6px 4px 1px rgba(0, 0, 0, 0.5);
+  width: 10%;
+  align-self: center;
+  outline: 0.5px solid #f9f6e4;
+  outline-offset: -7px;
+  text-decoration: none;
+}
+
+.shopBtnContent h2 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-size: 19px;
+  line-height: 1.25;
+  padding-top: 5%;
+  color: #f9f6e4;
+}
+
+a.seeMoreArrow {
+  margin-top: 20%;
+  margin-bottom: 5%;
+  text-decoration: none;
+  color: #f9f6e4;
+}
+
+.motto {
+  background-image: url("assets/MountainTeaHouse-07.svg");
+  background-color: #f9f6e4;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding: 10%;
+}
+
+.motto h1 {
+  font-family: "Garamond";
+  font-style: normal;
+  font-size: 40px;
+  line-height: 55px;
+  text-align: center;
+  color: #87826e;
+}
+
+/* ROW 1 */
+
+.container.experience {
+  margin: 0em;
+  padding: 0em;
+  width: 100vw;
+}
+
+.container.experience .row {
+  margin: 0em;
+  padding: 0em;
+  width: 100vw;
+}
+
+.experiencePhoto {
+  background-image: url("assets/oriento-gy_DN08336U-unsplash-min-600x900.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+}
+
+.experienceDesc {
+  background-color: #2d1312;
+  height: 700px;
+}
+
+.experienceContent {
+  padding: 20%;
+}
+
+.experienceDesc h2 {
+  font-family: "Garamond";
+  font-size: 40px;
+  line-height: 55px;
+  color: #f9f6e4;
+}
+
+.experienceDesc p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-size: 18px;
+  line-height: 26px;
+  color: #f9f6e4;
+  padding-bottom: 10%;
+}
+
+a.menuBtn {
+  text-decoration: none;
+}
+
+a.menuBtn h2 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  padding: 0;
+}
+
+.menuBtnContent {
+  outline: 0.5px solid #f9f6e4;
+  outline-offset: -7px;
+  background: #2d1312;
+  box-sizing: border-box;
+  box-shadow: 1px 6px 4px 1px rgba(0, 0, 0, 0.5);
+  width: 30%;
+  text-align: center;
+}
+
+/* ROW 2 */
+
+.container.sourcing {
+  margin: 0em;
+  padding: 0em;
+  width: 100vw;
+}
+
+.container.sourcing .row {
+  margin: 0em;
+  padding: 0em;
+  width: 100vw;
+}
+
+.sourcingPhoto {
+  background-image: url("assets/735397511.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+}
+
+.sourcingDesc {
+  background-color: #87826e;
+  height: 700px;
+}
+
+.sourcingContent {
+  padding: 20%;
+}
+
+.sourcingDesc h2 {
+  font-family: "Garamond";
+  font-size: 40px;
+  line-height: 55px;
+  color: #f9f6e4;
+}
+
+.sourcingDesc p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-size: 18px;
+  line-height: 26px;
+  color: #f9f6e4;
+  padding-bottom: 10%;
+}
+
+a.aboutBtn {
+  text-decoration: none;
+}
+
+a.aboutBtn h2 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  padding: 0;
+}
+
+.aboutBtnContent {
+  outline: 0.5px solid #f9f6e4;
+  outline-offset: -7px;
+  background: #87826e;
+  box-sizing: border-box;
+  box-shadow: 1px 6px 4px 1px rgba(0, 0, 0, 0.3);
+  width: 30%;
+  text-align: center;
+}
+
+/* ROW 3 */
+
+.container.pack {
+  margin: 0em;
+  padding: 0em;
+  width: 100vw;
+}
+
+.container.pack .row {
+  margin: 0em;
+  padding: 0em;
+  width: 100vw;
+}
+
+.packPhoto {
+  background-image: url("assets/Herbal-Tea-Package-01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+}
+
+.packDesc {
+  background-color: #ba6548;
+  height: 700px;
+}
+
+.packContent {
+  padding: 20%;
+}
+
+.packDesc h2 {
+  font-family: "Garamond";
+  font-size: 40px;
+  line-height: 55px;
+  color: #f9f6e4;
+}
+
+.packDesc p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-size: 18px;
+  line-height: 26px;
+  color: #f9f6e4;
+  padding-bottom: 10%;
+}
+
+a.packBtn {
+  text-decoration: none;
+}
+
+a.packBtn h2 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  padding: 0;
+}
+
+.packBtnContent {
+  outline: 0.5px solid #f9f6e4;
+  outline-offset: -7px;
+  background: #ba6548;
+  box-sizing: border-box;
+  box-shadow: 1px 6px 4px 1px rgba(0, 0, 0, 0.3);
+  width: 30%;
+  text-align: center;
+}
+
+/* FOOTER */
+
+.footer {
+  background-color: #f9f6e4;
+  text-align: center;
+}
+
+.footerDivider {
+  padding-top: 2%;
+  width: 75%;
+  padding-left: 2%;
+}
+
+.footer h2 {
+  font-family: "Garamond";
+  font-style: normal;
+  font-size: 34px;
+  color: #87826e;
+}
+
+.footer p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #87826e;
+  width: 30%;
+  margin-left: 35%;
+}
+
+.emailLine {
+  margin-top: 2%;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.emailLine p {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 14px;
+  color: #5fa79f;
+  margin-left: 25%;
+  margin-right: 10%;
+}
+
+.line {
+  width: 30%;
+  height: 0;
+  border: 2px solid #87826e;
+  margin: 3px;
+  display: inline-block;
+}
+
+.address {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 11px;
+  line-height: 14px;
+  color: #87826e;
+  width: 15%;
+}
+
+.footer svg {
+  margin: 1%;
+}
+
+.navLinksAgain {
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+
+.bottomNav {
+  font-family: "Montserrat";
+  font-size: 11px;
+  color: #5fa79f;
+  text-decoration: none;
+  margin: 1%;
+}
+
+span {
+  color: #5fa79f;
+}
+
+.greenThing {
+  background-color: #3b5a57;
+  height: 25px;
+}
+
+@media only screen and (max-width: 600px) {
+  .footer h2 {
+    font-size: 25px;
+  }
+  .footer p {
+    font-size: 11px;
+  }
+  footer.footer svg {
+    margin: 3%;
+  }
+  .experiencePhoto {
+    background-position: 75% 50%;
+  }
+  .sourcingPhoto {
+    background-position: 50% 50%;
+  }
+  .packPhoto {
+    background-position: 75% 75%;
+  }
+  .motto {
+    background-image: none;
+  }
+  .motto h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .seeMoreArrow {
+    opacity: 0%;
+  }
+  .hero {
+    background-position: 80% 100%;
+  }
+  .heroLogo {
+    padding-top: 25%;
+  }
+  .shopBtnContent {
+    width: 20%;
+  }
+  .shopBtnContent h2 {
+    font-size: 17px;
+    line-height: 1.25;
+  }
+  a.menuBtn h2, a.aboutBtn h2, a.packBtn h2 {
+    font-size: 17px;
+    padding: 3%;
+  }
+  .menuBtnContent, .aboutBtnContent, .packBtnContent {
+    width: 40%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .footer h2 {
+    font-size: 25px;
+  }
+  .footer p {
+    font-size: 11px;
+    /* width: 50%; */
+  }
+  .experiencePhoto {
+    background-position: 75% 50%;
+  }
+  .sourcingPhoto {
+    background-position: 75% 50%;
+  }
+  .packPhoto {
+    background-position: 50% 75%;
+  }
+  .motto {
+    background-image: none;
+  }
+  .motto h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .seeMoreArrow {
+    opacity: 0%;
+  }
+  .hero {
+    background-position: 80% 100%;
+  }
+  .heroLogo {
+    padding-top: 25%;
+  }
+  .experienceDesc h2,
+  .sourcingDesc h2,
+  .packDesc h2 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .experienceDesc p,
+  .sourcingDesc p,
+  .packDesc p {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .shopBtnContent {
+    width: 15%;
+  }
+  .shopBtnContent h2 {
+    font-size: 17px;
+    line-height: 1.25;
+  }
+  a.menuBtn h2, a.aboutBtn h2, a.packBtn h2 {
+    font-size: 17px;
+    padding: 3%;
+  }
+  .menuBtnContent, .aboutBtnContent, .packBtnContent {
+    width: 30%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .footer h2 {
+    font-size: 30px;
+  }
+  .footer p {
+    font-size: 11px;
+  }
+  .experiencePhoto {
+    background-position: 75% 75%;
+  }
+  .sourcingPhoto {
+    background-position: 50% 50%;
+  }
+  .packPhoto {
+    background-position: 50% 75%;
+  }
+  .motto {
+    background-image: url("assets/MountainTeaHouse-07.svg");
+  }
+  .motto h1 {
+    font-size: 35px;
+    line-height: 45px;
+  }
+  .heroContent p {
+    font-size: 19px;
+    line-height: 1.25;
+  }
+  .hero {
+    background-position: 100% 100%;
+  }
+  .heroLogo {
+    padding-top: 20%;
+  }
+  .experienceDesc h2,
+  .sourcingDesc h2,
+  .packDesc h2 {
+    font-size: 35px;
+    line-height: 45px;
+  }
+  .experienceDesc p,
+  .sourcingDesc p,
+  .packDesc p {
+    font-size: 15px;
+    line-height: 25px;
+  }
+  .shopBtnContent {
+    width: 15%;
+  }
+  .shopBtnContent h2 {
+    font-size: 19px;
+    line-height: 1.25;
+  }
+
+  a.menuBtn h2, a.aboutBtn h2, a.packBtn h2 {
+    font-size: 19px;
+    padding: 3%;
+  }
+  .menuBtnContent, .aboutBtnContent, .packBtnContent {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .footer h2 {
+    font-size: 34px;
+  }
+  .footer p {
+    font-size: 14px;
+  }
+  .experiencePhoto {
+    background-position: 75% 75%;
+  }
+  .sourcingPhoto {
+    background-position: 25% 50%;
+  }
+  .packPhoto {
+    background-position: 75% 75%;
+  }
+  .motto h1 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .experienceDesc h2,
+  .sourcingDesc h2,
+  .packDesc h2 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .experienceDesc p,
+  .sourcingDesc p,
+  .packDesc p {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .shopBtnContent {
+    width: 10%;
+  }
+  .shopBtnContent h2 {
+    font-size: 19px;
+    line-height: 1.25;
+  }
+  a.menuBtn h2, a.aboutBtn h2, a.packBtn h2 {
+    font-size: 19px;
+    padding: 3%;
+  }
+  .menuBtnContent, .aboutBtnContent, .packBtnContent {
+    width: 40%;
+  }
+  
+}
+
+@media only screen and (min-width: 1200px) {
+  .experiencePhoto {
+    background-position: 75% 50%;
+  }
+  .sourcingPhoto {
+    background-position: 50% 75%;
+  }
+  .packPhoto {
+    background-position: 75% 75%;
+  }
+  .seeMoreArrow {
+    opacity: 100%;
+  }
+  a.menuBtn h2, a.aboutBtn h2, a.packBtn h2 {
+    font-size: 19px;
+  }
+  .menuBtnContent, .aboutBtnContent, .packBtnContent {
+    width: 30%;
+  }
+}

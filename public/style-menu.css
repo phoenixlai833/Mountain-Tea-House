@@ -1,0 +1,386 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Montserrat:ital,wght@0,300;0,400;0,600;1,200;1,400;1,600&display=swap');
+
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  line-height: 0.5;
+  box-sizing: border-box;
+  margin: 0;
+  overflow-x: hidden;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+nav.navbar div.container-fluid {
+  background-color: #f9f6e4;
+}
+
+nav.navbar.navbar-expand-md.navbar-light.bg-light {
+  padding-top: 0em;
+  padding-bottom: 0em;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  text-decoration: none;
+  color: #87826e;
+  font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-item .nav-link .active {
+  color: #5fa79f;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #5fa79f;
+}
+
+object.cartIcon {
+  width: 40px;
+  margin-left: 4%; 
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("/assets/oriento-dPUWgZLsOk8-unsplash.jpg");
+
+  /* Full height */
+  /* height: 350%; */
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 15%;
+}
+
+h1.pageTitle {
+  font-family: "Garamond";
+  font-style: normal;
+  font-size: 70px;
+  color: #f9f6e4;
+  margin-bottom: 0;
+  margin-left: 15%;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+hr.beige {
+  color: #f9f6e4;
+  margin: 0;
+  opacity: 100%;
+}
+
+.wholeMenu {
+  background-color: #2d1312;
+  width: 100vw;
+  padding: 10% 15% 10% 15%
+}
+
+.wholeMenu h2 {
+  font-family: "Garamond";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  color: #f9f6e4;
+}
+
+.wholeMenu p.price {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 17px;
+  color: #f9f6e4;
+}
+
+span.teaList {
+  display: flex;
+  flex-direction: row;
+}
+
+.singleTea {
+  margin: 4% 0 4% 0;
+}
+
+.wholeMenu h3 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  color: #f9f6e4;
+}
+
+hr.dotted {
+  border: none;
+  border-top: 2px dotted #f9f6e4;
+  opacity: 50%;
+  width: 40%;
+}
+
+.wholeMenu h4 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  color: #f9f6e4;
+}
+
+.wholeMenu em {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 18px;
+  color: #f9f6e4;
+}
+
+.wholeMenu i {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 200;
+  font-size: 18px;
+  color: #f9f6e4;
+}
+
+.star {
+  line-height: 1.5;
+}
+
+h6.spacer {
+  margin-bottom: 20%;
+}
+
+/* FOOTER */
+
+.footer {
+  background-color: #f9f6e4;
+  text-align: center;
+}
+
+.footerDivider {
+  padding-top: 2%;
+  width: 75%;
+  padding-left: 2%;
+}
+
+.footer h2 {
+  font-family: "Garamond";
+  font-style: normal;
+  font-size: 34px;
+  color: #87826e;
+}
+
+.footer p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #87826e;
+  width: 30%;
+  margin-left: 35%;
+}
+
+.emailLine {
+  margin-top: 2%;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.emailLine p {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 14px;
+  color: #5fa79f;
+  margin-left: 25%;
+  margin-right: 10%;
+}
+
+.line {
+  width: 30%;
+  height: 0;
+  border: 2px solid #87826e;
+  margin: 3px;
+  display: inline-block;
+}
+
+.address {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 11px;
+  line-height: 14px;
+  color: #87826e;
+  width: 15%;
+}
+
+.footer svg {
+  margin: 1%;
+}
+
+.navLinksAgain {
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+
+.bottomNav {
+  font-family: "Montserrat";
+  font-size: 11px;
+  color: #5fa79f;
+  text-decoration: none;
+  margin: 1%;
+}
+
+span {
+  color: #5fa79f;
+}
+
+.greenThing {
+  background-color: #3b5a57;
+  height: 25px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .wholeMenu h2 {
+    font-size: 25px;
+  }
+  .wholeMenu p.price {
+    font-size: 12px;
+  }
+  h1.pageTitle {
+    font-size: 35px;
+  }
+  .wholeMenu h3 {
+    font-size: 15px;
+  }
+  .wholeMenu h4 {
+    font-size: 15px;
+  }
+  .wholeMenu em {
+    font-size: 12px;
+  }
+  .wholeMenu i {
+    font-size: 12px;
+  }
+  .singleTea {
+    margin: 9% 0 9% 0;
+  }
+  .parallax {
+    padding-top: 20%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .wholeMenu h2 {
+    font-size: 30px;
+  }
+  .wholeMenu p.price {
+    font-size: 14px;
+  }
+  h1.pageTitle {
+    font-size: 50px;
+  }
+  .wholeMenu h3 {
+    font-size: 15px;
+  }
+  .wholeMenu h4 {
+    font-size: 15px;
+  }
+  .wholeMenu em {
+    font-size: 14px;
+  }
+  .wholeMenu i {
+    font-size: 14px;
+  }
+  .singleTea {
+    margin: 7% 0 7% 0;
+  }
+  .parallax {
+    padding-top: 20%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .parallax {
+    padding-top: 15%;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  h1.pageTitle {
+    font-size: 70px;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .wholeMenu h2 {
+    font-size: 40px;
+  }
+  .wholeMenu p.price {
+    font-size: 17px;
+  }
+  .wholeMenu h3 {
+    font-size: 20px;
+  }
+  .wholeMenu h4 {
+    font-size: 20px;
+  }
+  .wholeMenu em {
+    font-size: 18px;
+  }
+  .wholeMenu i {
+    font-size: 18px;
+  }
+  .singleTea {
+    margin: 4% 0 4% 0;
+  }
+}
+
+/* FOOTER media query */
+
+@media only screen and (max-width: 600px) {
+  .footer h2 {
+    font-size: 25px;
+  }
+  .footer p {
+    font-size: 11px;
+  }
+  footer.footer svg {
+    margin: 3%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+
+  .footer h2 {
+    font-size: 25px;
+  }
+  .footer p {
+    font-size: 11px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .footer h2 {
+    font-size: 30px;
+  }
+  .footer p {
+    font-size: 11px;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .footer h2 {
+    font-size: 34px;
+  }
+  .footer p {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+
+}
