@@ -43,7 +43,7 @@ object.cartIcon {
 
 .parallax {
   /* The image used */
-  background-image: url("/assets/oriento-_TVv5D0zX_g-unsplash.jpg");
+  background-image: url("assets/oriento-_TVv5D0zX_g-unsplash.jpg");
 
   /* Full height */
   /* height: 350%; */
@@ -78,36 +78,10 @@ hr.beige {
   width: 100vw;
 }
 
-/* .flexRow1 {
-  display: flex;
-  flex-direction: row;
-  padding: 10% 15% 0 15%;
-  gap: 10%;
-}
-
-.flexRow2 {
-  display: flex;
-  flex-direction: row;
-  padding: 10% 15% 10% 15%;
-  gap: 10%;
-} */
-
 .contactForm {
   display: flex;
   flex-direction: column;
 }
-
-/* .submitBtn input {
-  background:#3B5A57;
-  width: 25%;
-  padding: 3%;
-  float: right;
-  box-sizing: border-box;
-  box-shadow: 1px 6px 4px 1px rgba(0, 0, 0, 0.5);
-  outline: 0.5px solid #f9f6e4;
-  outline-offset: -7px;
-
-} */
 
 .submitBtn {
   background: #3b5a57;
@@ -133,24 +107,6 @@ hr.beige {
   padding-top: 5%;
   color: #f9f6e4;
 }
-
-/* .ContactUs {
-  width: 50%;
-  height: 50%;
-} */
-
-/* .flexRow1 .square {
-  width: 50%;
-  height:50%;
-} */
-
-/* .interior {
-  background-image: url("/assets/e98c2cf20be6be01566f08515d8f276f.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 50%;
-} */
 
 .conUs.getName {
   margin-top: 5%;
@@ -349,7 +305,7 @@ span {
     padding: 0 15% 10% 15%;
   }
   .interior {
-    background-image: url("/assets/e98c2cf20be6be01566f08515d8f276f.jpg");
+    background-image: url("assets/e98c2cf20be6be01566f08515d8f276f.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -399,7 +355,7 @@ span {
     padding: 0 15% 10% 15%;
   }
   .interior {
-    background-image: url("/assets/e98c2cf20be6be01566f08515d8f276f.jpg");
+    background-image: url("assets/e98c2cf20be6be01566f08515d8f276f.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -467,7 +423,7 @@ span {
     margin-left: 0;
   }
   .interior {
-    background-image: url("/assets/e98c2cf20be6be01566f08515d8f276f.jpg");
+    background-image: url("assets/e98c2cf20be6be01566f08515d8f276f.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

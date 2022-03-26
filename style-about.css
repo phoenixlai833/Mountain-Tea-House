@@ -44,7 +44,7 @@ object.cartIcon {
 /* CONTENT */
 
 .mainContents {
-  background-image: url("/assets/oleg-guijinsky-2CRgKZAyPXg-unsplash.jpg");
+  background-image: url("assets/oleg-guijinsky-2CRgKZAyPXg-unsplash.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;

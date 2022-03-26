@@ -43,7 +43,7 @@ object.cartIcon {
 
 .parallax {
   /* The image used */
-  background-image: url("/assets/oriento-dPUWgZLsOk8-unsplash.jpg");
+  background-image: url("assets/oriento-dPUWgZLsOk8-unsplash.jpg");
 
   /* Full height */
   /* height: 350%; */

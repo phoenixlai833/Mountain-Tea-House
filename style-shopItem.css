@@ -45,7 +45,7 @@ object.cartIcon {
 
 .mainContents {
   background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)),
-    url("/assets/oriento-LQfQ-nhS9A8-unsplash.jpg");
+    url("assets/oriento-LQfQ-nhS9A8-unsplash.jpg");
   background-attachment: fixed;
   background-position: 50% 75%;
   background-repeat: no-repeat;
@@ -232,7 +232,7 @@ a.CartBtn {
 .itemImage {
   background-size: cover;
   background-position: center;
-  background-image: url("/assets/HTB1RHASclGE3KVjSZFhq6AkaFXao.png");
+  background-image: url("assets/HTB1RHASclGE3KVjSZFhq6AkaFXao.png");
 }
 
 .square {
