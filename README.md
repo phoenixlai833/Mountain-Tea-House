@@ -12,10 +12,10 @@ The class focused on the design process where I created a style guide, low-fidel
 
 ## Live Examples
 
-![Home](/assets/Home-SS1.png)
-
-<!-- ![Product](https://user-images.githubusercontent.com/68607795/149754991-ffc3e793-552e-4433-911d-065b50d5f4de.png) -->
-
+![Home1](/assets/Home-SS1.png)
+![Home2](/assets/Home-SS2.png)
+![Product1](/assets/Product-SS1.png)
+![Product2](/assets/Product-SS2.png)
 
 ## Technologies
 
