@@ -510,7 +510,7 @@ span {
   }
   .ViewItemBtnContent h2 {
     font-size: 13px;
-    padding-top: 8%;
+    padding-top: 3%;
   }
   .recs {
     height: 120%;
@@ -614,7 +614,7 @@ span {
   }
   .ViewItemBtnContent h2 {
     font-size: 15px;
-    padding-top: 8%;
+    padding-top: 4%;
   }
   .recs {
     height: 140%;
@@ -718,7 +718,7 @@ span {
   }
   .ViewItemBtnContent h2 {
     font-size: 17px;
-    padding-top: 8%;
+    padding-top: 6%;
   }
   .recs {
     height: 160%;
@@ -759,7 +759,7 @@ span {
   }
   .ViewItemBtnContent h2 {
     font-size: 19px;
-    padding-top: 8%;
+    padding-top: 7%;
   }
   .recs {
     height: 180%;
@@ -782,7 +782,7 @@ span {
   }
   .ViewItemBtnContent h2 {
     font-size: 13px;
-    padding-top: 10%;
+    padding-top: 5%;
   }
   .recs {
     height: 35%;
@@ -885,7 +885,7 @@ span {
 @media only screen and (min-width: 1100px) {
   .ViewItemBtnContent h2 {
     font-size: 14px;
-    padding-top: 11%;
+    padding-top: 4%;
   }
   .itemIntro {
     width: 300%;
@@ -916,7 +916,7 @@ span {
   }
   .ViewItemBtnContent h2 {
     font-size: 15px;
-    padding-top: 10%;
+    padding-top: 6%;
   }
   .recs {
     height: 37%;
@@ -1009,7 +1009,7 @@ span {
   }
   .ViewItemBtnContent h2 {
     font-size: 19px;
-    padding-top: 10%;
+    padding-top: 6%;
   }
   .recs {
     height: 40%;
@@ -1041,9 +1041,6 @@ span {
   
 }
 
-
-@media only screen and (min-width: 1700px) {
-}
 
 /* FOOTER media query */
 
