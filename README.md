@@ -12,7 +12,7 @@ The class focused on the design process where I created a style guide, low-fidel
 
 ## Live Examples
 
-![Home](assets/Home-ss1.png)
+![Home](assets/Home-ss1)
 
 <!-- ![Product](https://user-images.githubusercontent.com/68607795/149754991-ffc3e793-552e-4433-911d-065b50d5f4de.png) -->
 
