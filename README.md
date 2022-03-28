@@ -1,5 +1,4 @@
 # Mountain Tea House
----
 
 **Mountain Tea House** is a tea house concept that I imagined in a first semester design course at BCIT. I wanted a semi-upscale brand that appeals to fellow tea connoisseurs and evokes a calming, atmospheric feeling.
 
