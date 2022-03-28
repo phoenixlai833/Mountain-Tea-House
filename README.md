@@ -2,7 +2,7 @@
 
 **Mountain Tea House** is a tea house concept that I imagined in a first semester design course at BCIT. I wanted a semi-upscale brand that appeals to fellow tea connoisseurs and evokes a calming, atmospheric feeling.
 
-The class focused on the design process where I created a style guide, low-fidelity wireframes, and finally a high-fidelity prototype in Figma. I continued to pursue the project on my own time to implement the vision I had for the website. I made sure the pages were fully responsive for different screen sizes and because it is static, I deployed it on netlify. Feel free to check it out!
+The class focused on the design process where I created a style guide, low-fidelity wireframes, and a high-fidelity prototype in Figma. I continued to pursue the project on my own time to implement the vision I had for the website. I made sure the pages were fully responsive for different screen sizes and because it is static, I deployed it on netlify. Feel free to check it out!
 
 🌐 [Live Website](https://wizardly-poincare-a73468.netlify.app)
 
