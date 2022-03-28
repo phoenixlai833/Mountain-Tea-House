@@ -5,16 +5,18 @@
 
 The class focused on the design process where I created a style guide, low-fidelity wireframes, and finally a high-fidelity prototype in Figma. I continued to pursue the project on my own time to implement the vision I had for the website. I made sure the pages were fully responsive for different screen sizes and because it is static, I deployed it on netlify. 
 
-🌐 [Live Website Here](https://wizardly-poincare-a73468.netlify.app)
+🌐 [Live Website](https://wizardly-poincare-a73468.netlify.app)
 
-🎨 [Figma Here](https://www.figma.com/file/X3C7n2q5ZYSIdLgaACGV3H/Mountain-Tea-House?node-id=0%3A1)
-<!-- 
+🎨 [Figma Link](https://www.figma.com/file/X3C7n2q5ZYSIdLgaACGV3H/Mountain-Tea-House?node-id=0%3A1)
+
+
 ## Live Examples
 
-![Lindaful](https://user-images.githubusercontent.com/68607795/149754394-444e2899-9054-44da-ad5c-0771aae6471d.png)
-![About](https://user-images.githubusercontent.com/68607795/149754991-ffc3e793-552e-4433-911d-065b50d5f4de.png)
+![Home](assets/Home ss1.png)
 
- -->
+<!-- ![Product](https://user-images.githubusercontent.com/68607795/149754991-ffc3e793-552e-4433-911d-065b50d5f4de.png) -->
+
+
 ## Technologies
 
 ### Languages
