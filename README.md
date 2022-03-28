@@ -30,13 +30,3 @@ The class focused on the design process where I created a style guide, low-fidel
 ### Tools & Platforms
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-
-## Connect with Me
-
-Feel free to connect with me, I'm always looking to meet new developers.
-<!-- 
-📧 [informlinda@gmal.com](mailto:informlinda@gmail.com)
-
-🌐 [Website](https://www.lindaful.com)
-
-💼 [LinkedIn](https://www.linkedin.com/in/iflinda) -->
