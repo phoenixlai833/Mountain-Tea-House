@@ -6,7 +6,7 @@ The class focused on the design process where I created a style guide, low-fidel
 
 🌐 [Live Website](https://wizardly-poincare-a73468.netlify.app)
 
-💫 [Figma Link](https://www.figma.com/file/X3C7n2q5ZYSIdLgaACGV3H/Mountain-Tea-House?node-id=0%3A1)
+💫 [Figma Mockup](https://www.figma.com/file/X3C7n2q5ZYSIdLgaACGV3H/Mountain-Tea-House?node-id=0%3A1)
 
 
 ## Live Examples
